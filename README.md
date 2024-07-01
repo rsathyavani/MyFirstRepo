@@ -1,4 +1,4 @@
 # MyFirstRepo
 
 
-readme file updated from new branch trying to create a conflict
+readme file trying to create a conflict
