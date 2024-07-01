@@ -1,4 +1,3 @@
 # MyFirstRepo
-
-
-readme file trying to create a conflict
+My first trial file
+readme file updated
